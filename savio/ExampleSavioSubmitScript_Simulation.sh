@@ -5,7 +5,7 @@
 
 #SBATCH -J Sim
 
-#SBATCH --account=chandna
+#SBATCH --account=fc_cosi
 #SBATCH --partition=savio3
 #SBATCH --qos=savio_normal
 
